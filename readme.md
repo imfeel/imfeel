@@ -19,3 +19,7 @@
 **Подобие стиллера для VimeWorld [FIX]**
 
 [Репозиторий](https://github.com/imfeel/Stealvw)
+## AutoVimeTop
+**Автоматизация действий на сервисе VimeTop**
+
+[Репозиторий](https://github.com/imfeel/AutoVimeTop)
