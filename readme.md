@@ -25,6 +25,6 @@
 [Репозиторий](https://github.com/imfeel/AutoVimeTop)
 
 ## BrawlStars API SDK PHP
-**SDK для BrawlStars Api **
+**SDK для BrawlStars Api**
 
 [Репозиторий](https://github.com/imfeel/BrawlPHPSDK)
